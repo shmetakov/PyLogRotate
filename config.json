@@ -1,0 +1,8 @@
+[
+    {
+        "log_dir": "C:/ElectricVehicleCharging/logs",
+        "target": "C:/ElectricVehicleCharging/logs/archive",
+        "size_target": 100,
+        "period": 300
+    }
+]
